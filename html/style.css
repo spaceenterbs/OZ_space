@@ -1,0 +1,35 @@
+div {
+    background-color: aqua;
+}
+
+* {
+    font-weight: bold;
+    color: darkorange;
+}
+
+.blue {
+    color: blueviolet;
+
+}
+
+p.blue {
+    color: slateblue;
+}
+
+.blue.dark {
+    color: mediumblue;
+}
+
+p.blue.dark {
+    color: darkblue;
+}
+
+#red {
+    color: tomato;
+}
+
+span,
+.dark,
+#red {
+    text-decoration: underline;
+}
